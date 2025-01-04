@@ -4,48 +4,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.egg-info/
-.Python
-venv/
+/
 
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
 
 # Logs
 logs/
 *.log
 
-# Environment Variables
-.env
-.env.*
-
-# IDEs and Editors
-.idea/
-.vscode/
-*.sublime-workspace
-
-# Temporary Files
-*.tmp
-*.swp
-*.swo
-
-# Build Output
-dist/
-build/
-*.o
-*.out
-*.class
-
-# Version Control Metadata
-*.orig
-
-# Miscellaneous
-*.bak
-Thumbs.db
-target/
