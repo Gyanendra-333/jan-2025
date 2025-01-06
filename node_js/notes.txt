@@ -1,0 +1,6 @@
+
+
+Event Loop in node js means follow FIFO 
+
+1. Blocking Operations  => Syncronous Task or request.
+2. Non-blocking Operations  => Asynchronous Task ir request.
