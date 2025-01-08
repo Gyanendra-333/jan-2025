@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "first_name": "Conn",
+        "last_name": "Martinetto",
+        "email": "cmartinetto0@homestead.com",
+        "gender": "Male",
+        "job_title": "Help Desk Operator"
+    },
+    {
+        "id": 2,
+        "first_name": "Ricard",
+        "last_name": "Orchart",
+        "email": "rorchart1@prweb.com",
+        "gender": "Male",
+        "job_title": "General Manager"
+    },
+    {
+        "id": 3,
+        "first_name": "Godart",
+        "last_name": "Seamons",
+        "email": "gseamons2@csmonitor.com",
+        "gender": "Male",
+        "job_title": "Accountant II"
+    },
+    {
+        "id": 4,
+        "first_name": "Pooh",
+        "last_name": "Sydall",
+        "email": "psydall3@nifty.com",
+        "gender": "Male",
+        "job_title": "Clinical Specialist"
+    },
+    {
+        "id": 5,
+        "first_name": "Angy",
+        "last_name": "McDonogh",
+        "email": "amcdonogh4@dropbox.com",
+        "gender": "Female",
+        "job_title": "Social Worker"
+    },
+    {
+        "id": 6,
+        "first_name": "Andris",
+        "last_name": "Dmitrovic",
+        "email": "admitrovic5@europa.eu",
+        "gender": "Male",
+        "job_title": "Legal Assistant"
+    },
+    {
+        "id": 7,
+        "first_name": "Dulcinea",
+        "last_name": "Littefair",
+        "email": "dlittefair6@is.gd",
+        "gender": "Female",
+        "job_title": "Media Manager IV"
+    },
+    {
+        "id": 8,
+        "first_name": "Blakeley",
+        "last_name": "Linnett",
+        "email": "blinnett7@cdc.gov",
+        "gender": "Female",
+        "job_title": "Environmental Specialist"
+    },
+    {
+        "id": 9,
+        "first_name": "Morry",
+        "last_name": "Liddiatt",
+        "email": "mliddiatt8@senate.gov",
+        "gender": "Agender",
+        "job_title": "Director of Sales"
+    },
+    {
+        "id": 10,
+        "first_name": "Euell",
+        "last_name": "Camplen",
+        "email": "ecamplen9@cpanel.net",
+        "gender": "Male",
+        "job_title": "Financial Analyst"
+    },
+    {
+        "id": 11,
+        "first_name": "Thurstan",
+        "last_name": "Summerlad",
+        "email": "tsummerlada@umich.edu",
+        "gender": "Male",
+        "job_title": "Clinical Specialist"
+    },
+    {
+        "id": 12,
+        "first_name": "Chelsy",
+        "last_name": "Issitt",
+        "email": "cissittb@vk.com",
+        "gender": "Female",
+        "job_title": "Design Engineer"
+    },
+    {
+        "id": 13,
+        "first_name": "Kevin",
+        "last_name": "Sarath",
+        "email": "ksarathc@redcross.org",
+        "gender": "Non-binary",
+        "job_title": "Actuary"
+    },
+    {
+        "id": 14,
+        "first_name": "Hamid",
+        "last_name": "Mugglestone",
+        "email": "hmugglestoned@earthlink.net",
+        "gender": "Agender",
+        "job_title": "Technical Writer"
+    },
+    {
+        "id": 15,
+        "first_name": "Mandel",
+        "last_name": "Tappington",
+        "email": "mtappingtone@i2i.jp",
+        "gender": "Male",
+        "job_title": "Assistant Manager"
+    },
+    {
+        "id": 16,
+        "first_name": "Terence",
+        "last_name": "Dreger",
+        "email": "tdregerf@networksolutions.com",
+        "gender": "Male",
+        "job_title": "Registered Nurse"
+    },
+    {
+        "id": 17,
+        "first_name": "Fonsie",
+        "last_name": "Duhig",
+        "email": "fduhigg@163.com",
+        "gender": "Male",
+        "job_title": "Actuary"
+    },
+    {
+        "id": 18,
+        "first_name": "Sydelle",
+        "last_name": "Troke",
+        "email": "strokeh@nationalgeographic.com",
+        "gender": "Female",
+        "job_title": "Staff Scientist"
+    },
+    {
+        "id": 19,
+        "first_name": "Fidelio",
+        "last_name": "Davidesco",
+        "email": "fdavidescoi@reddit.com",
+        "gender": "Genderqueer",
+        "job_title": "Senior Editor"
+    },
+    {
+        "id": 20,
+        "first_name": "Adorne",
+        "last_name": "Zavattari",
+        "email": "azavattarij@amazon.com",
+        "gender": "Female",
+        "job_title": "Senior Cost Accountant"
+    },
+    {
+        "id": 21,
+        "first_name": "Ira",
+        "last_name": "Connal",
+        "email": "iconnalk@1und1.de",
+        "gender": "Male",
+        "job_title": "Programmer Analyst III"
+    },
+    {
+        "id": 22,
+        "first_name": "Robb",
+        "last_name": "Bunney",
+        "email": "rbunneyl@netscape.com",
+        "gender": "Male",
+        "job_title": "Product Engineer"
+    },
+    {
+        "id": 23,
+        "first_name": "Mohammed",
+        "last_name": "Krug",
+        "email": "mkrugm@uiuc.edu",
+        "gender": "Male",
+        "job_title": "Civil Engineer"
+    },
+    {
+        "id": 24,
+        "first_name": "Elle",
+        "last_name": "Foale",
+        "email": "efoalen@list-manage.com",
+        "gender": "Female",
+        "job_title": "Account Representative I"
+    },
+    {
+        "id": 25,
+        "first_name": "Edsel",
+        "last_name": "Stanley",
+        "email": "estanleyo@instagram.com",
+        "gender": "Male",
+        "job_title": "Help Desk Operator"
+    },
+    {
+        "id": 26,
+        "first_name": "Jae",
+        "last_name": "Longfellow",
+        "email": "jlongfellowp@amazon.com",
+        "gender": "Male",
+        "job_title": "Web Designer III"
+    },
+    {
+        "id": 27,
+        "first_name": "Jaquelyn",
+        "last_name": "Brett",
+        "email": "jbrettq@rambler.ru",
+        "gender": "Female",
+        "job_title": "Product Engineer"
+    },
+    {
+        "id": 28,
+        "first_name": "Hadrian",
+        "last_name": "Kindread",
+        "email": "hkindreadr@a8.net",
+        "gender": "Genderfluid",
+        "job_title": "Statistician II"
+    },
+    {
+        "id": 29,
+        "first_name": "Norby",
+        "last_name": "Fazzioli",
+        "email": "nfazziolis@blogger.com",
+        "gender": "Male",
+        "job_title": "Research Assistant I"
+    },
+    {
+        "id": 30,
+        "first_name": "Chalmers",
+        "last_name": "Guyer",
+        "email": "cguyert@fastcompany.com",
+        "gender": "Male",
+        "job_title": "Account Coordinator"
+    }
+]
