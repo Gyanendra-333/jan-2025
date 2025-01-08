@@ -1,0 +1,8 @@
+
+
+http Methods -
+GET
+PUT
+POST
+DELETE
+PATCH
