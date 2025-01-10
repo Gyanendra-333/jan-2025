@@ -1,46 +1,18 @@
 const express = require("express");
 const users = require("./MOCK_DATA.json");
+const userRoute = require("./routes/user.route");
+const { logReqRes } = require("./middleware");
 
 const app = express();
 const PORT = 4000;
 
 
 // middleware 
-app.use(express.urlencoded({ extended: false }))
+app.use(express.urlencoded({ extended: false }));
+app.use(logReqRes("log.txt"));
 
 // Routes 
-
-app.get("/users", (req, res) => {
-    const html = `<ul>
-   ${users.map((user) => `<li>${user?.first_name}</li>`).join("")}
-   </ul>`;
-    res.send(html);
-})
-
-// REST API 
-app.get("/api/users", (req, res) => {
-    return res.json(users);
-})
-
-app.route("/api/users/:id")
-    .get((req, res) => {
-        const id = Number(req.params.id);
-        const user = users.find((user) => user.id === id);
-        return res.send(user);
-    })
-    .put((req, res) => {
-        return res.json({ status: "pending" });
-    })
-    .delete((req, res) => {
-        return res.json({ status: "pending" });
-    })
-
-
-app.post("/api/users", (req, res) => {
-    const body = req.body;
-    console.log("body", body)
-    return res.json({ status: "pending" });
-});
+app.use("/user", userRoute);
 
 
 
