@@ -2,6 +2,7 @@
   "name": "short-url",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "start": "nodemon index.js"
   },
@@ -11,7 +12,7 @@
   "dependencies": {
     "express": "^4.21.2",
     "mongoose": "^8.9.4",
-    "nanoid": "^5.0.9",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "shortid": "^2.2.16"
   }
 }
