@@ -16,10 +16,10 @@ const registerUser = asyncHandler(async (req, res) => {
     }
 
     // check if user is already exist
-    const existedUser = User.findOne({
+    const existedUser = await User.findOne({
         $or: [{ userName }, { email }]
     })
-    if (!existedUser) {
+    if (existedUser) {
         throw new ApiError(409, "user already exist");
     }
 
