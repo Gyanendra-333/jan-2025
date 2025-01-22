@@ -16,9 +16,8 @@ router.route("/register").post(upload.fields([
 ]),
     registerUser);
 
-router.route("/login").post(loginUser)
 
-// secured route 
+router.route("/login").post(loginUser)
 router.route("/logout").post(verifyJWT, logoutUser);
 router.route("/refresh-token").post(refreshAccessToken);
 router.route("/changet-Password").post(verifyJWT, changeCurrentPassword);
@@ -28,7 +27,6 @@ router.route("/avatar").patch(verifyJWT, upload.single("avatar"), updateUserAvat
 router.route("/coverImage").patch(verifyJWT, upload.single("coverImage"), updateUserCover);
 router.route("/c/:userName").get(verifyJWT, getUserChannelProfile);
 router.route("/history").get(verifyJWT, getWatchHistory);
-
 
 
 export default router;
