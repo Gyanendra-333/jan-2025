@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "id": "1",
+            "title": "Guitar-Fundamentals",
+            "slug": "Guitar-Fundamentals",
+            "description": "Lorem Ipsum has been the standard dummy text ever since the 1500s.",
+            "price": 99,
+            "instructor": "Gyanendra",
+            "isFeatured": true,
+            "image": "/courses/gitar.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Guitar-Fundamentals",
+            "slug": "Guitar-Fundamentals",
+            "description": "Lorem Ipsum has been the standard dummy text ever since the 1500s.",
+            "price": 99,
+            "instructor": "Gyanendra",
+            "isFeatured": true,
+            "image": "/courses/gitar.jpg"
+        },
+        {
+            "id": "3",
+            "title": "Guitar-Fundamentals",
+            "slug": "Guitar-Fundamentals",
+            "description": "Lorem Ipsum has been the standard dummy text ever since the 1500s.",
+            "price": 99,
+            "instructor": "Gyanendra",
+            "isFeatured": true,
+            "image": "/courses/gitar.jpg"
+        }
+    ]
+}
