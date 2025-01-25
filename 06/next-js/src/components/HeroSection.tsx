@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Spotlight } from "./ui/Spotlight";
+import { Button } from "./ui/moving-border";
 
 
 function HeroSection() {
@@ -12,7 +13,7 @@ function HeroSection() {
                     companies</h1>
                 <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">Work-experience based learning programs to land your dream tech job Build professional projects like the top 1% tech professionals.Master the latest Fullstack/Backend/Automation tech with real work-ex.Crack your dream role at the best tech companies</p>
                 <div className="mt-4">
-                    <Link href={"/courses"}>Read More...</Link>
+                    <Link href={"/courses"}><Button>More Courses...</Button></Link>
                 </div>
             </div>
         </div>
