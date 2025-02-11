@@ -1,5 +1,4 @@
 
-
 const addTask = "add/type";
 const deleteTask = "add/delete";
 
@@ -18,10 +17,13 @@ const taskReducer = (state = initialState, action) => {
             }
 
         case deleteTask:
+            const updateTask = state.task.filter((curState, index) => index !== action.payload
+            )
             return {
                 ...state,
-                task: [...state.task, action.payload]
+                task: [...state.task, updateTask]
             }
+        default: return state
 
     }
 }
