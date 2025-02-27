@@ -1,0 +1,11 @@
+
+
+ Javascript Execution context
+
+1. Global eecution Context
+2. Function Execution Context
+2. Eval Execution Context
+
+process 
+Memory creation phase (for varisables)
+execution pahes
